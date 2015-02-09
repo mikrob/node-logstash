@@ -29,12 +29,12 @@
   },
   "dependencies": {
     "log4node": "0.1.6",
-    "optimist": "0.6.1"
+    "optimist": "0.6.1",
+    "zmq": "2.8.x"
   },
   "optionalDependencies":{
     "aws-lib": "0.0.6",
     "amqplib": "0.3.0",
-    "zmq": "2.8.x",
     "moment": "2.8.3",
     "redis": "0.12.x",
     "oniguruma": "3.0.4",
